@@ -15,9 +15,9 @@ To handle complexities certain design patterns are recommended. they are below!
 4. Cohesive Components/Services: we need to ensure that each component or service is cohesive, which means it should only perform functionality related to its specific purpose. this makes each component simpler and easy to maintain.
 5. Impact of Off-the-Shelf Components: We need to be cautious about using about external or external party usages . like third party libraries or components as they may add complexity.
 6. Insulate from Data Format Changes: We need to design components such that they can recover quickly (resilient) to change in data forms . this can be done by abstraction layers as they protect the core functionality from changes in input/output format.
-
+---
 #### Role of design in complexity Management.
-----
+
 Design Patterns: At a lower level, recurring problems in code organization led to the develop the design patterns, which are solutions to common design issues. They help in organizing code in a way that reduces complexity.
 
 Architectural Decisions : At the higher level, architectural decisions are important for managing complexity in large systems. This involves choosing how to structure the overall system and how different components will interact.
