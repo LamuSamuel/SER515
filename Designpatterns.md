@@ -34,3 +34,6 @@ pattern helps in providing a blueprint which can be later adapted to fit various
 + State: Allows an object to alter its behavior when its internal state changes, appearing to change its class.
 + Memento: Captures and externalizes an object’s internal state without violating encapsulation, allowing the object to be restored to that state later.
 + Visitor: Represents an operation to be performed on the elements of an object structure, allowing you to define a new operation without changing the classes of the elements on which it operates.
+
+
+***Note: GENAI has been used to understand the patterns***
